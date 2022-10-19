@@ -6,4 +6,4 @@
 1. You can get the Car-Person dataset for Assignment-2 [here](https://drive.google.com/file/d/1p-I_WreoTv9IRoXv5z5uBfwMR1FhV7Wl/view?usp=sharing)
 
 ### Assignment 3
-1. Dataset for 3rd problem id [here](https://github.com/YoongiKim/CIFAR-10-images)
+1. Dataset for 3rd problem is [here](https://github.com/YoongiKim/CIFAR-10-images)
